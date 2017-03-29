@@ -43,6 +43,8 @@ This repository is meant to be a companion to my talk entitled _Pgcrypto Avast! 
 
 - [Writing an authentication backend](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#writing-an-authentication-backend)
 - [Writing your own hasher](https://docs.djangoproject.com/en/1.11/topics/auth/passwords/#writing-your-own-hasher)
+- [Open sourced django-pgcryptoauth](https://github.com/tomatohater/django-pgcryptoauth)
+
 
 
 #### Cracking passwords
@@ -50,3 +52,4 @@ This repository is meant to be a companion to my talk entitled _Pgcrypto Avast! 
 - [John the Ripper password cracker](http://www.openwall.com/john/)
 - [Getting Started Cracking Password Hashes With John the Ripper](https://www.tunnelsup.com/getting-started-cracking-password-hashes/)
 - [Brute force calculator](http://calc.opensecurityresearch.com/)
+- [Rainbow Crack](http://project-rainbowcrack.com/)
