@@ -21,7 +21,7 @@ This repository is meant to be a companion to my talk entitled _Pgcrypto Avast! 
 ### Running the sample Django project
 
 - Use Python 3
-- Install dependencies (in virtualenv): `pip install requirements.txt`
+- Install dependencies (in virtualenv): `pip install -r requirements.txt`
 - Configure your Postgres database in an env variable
     - `export DATABASE_URL=postgres://[user]:[pwd]@[host]:[port]/[dbname]`
 - Run database migration: `python manage.py migrate`
